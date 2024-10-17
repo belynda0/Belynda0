@@ -1,15 +1,6 @@
-## Hi there 👋 I'm Belynda
-
-I'm currently a Computational Social Science M.S. Student at UC San Diego 🌊
+## Hi there 👋
 
 
-- 🔭 I’m currently working on ..
-- 🌱 I'm currently learning GIS, machine learning, deep learning and neural networks for NLP, Tableau, and brushing up on R and Python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about social science topics
-- 📫 How to reach me: bpherrrea@ucsd.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: In high school, I raised farm animals. I went to undergrad at UC San Diego as a transfer student. In my free time, I enjoy going to the beach, hanging out with friends, traveling, and listening to podcasts.
+Hi, my name is Belynda Herrera. I’m a master’s student at UC San Diego 🌊, studying Computational Social Science. There are many avenues within CSS, and my approach focuses on using data to reveal patterns in our society. During my undergraduate studies, I majored in Political Science - Data Analytics and Sociology.
 
-Contact me: hbelynda09@gmail.com
+Some fun facts about me: In high school, I raised farm animals. I went to undergrad at UC San Diego as a transfer student. In my free time, I enjoy going to the beach, hanging out with friends, traveling, and listening to podcasts.
